@@ -1,7 +1,5 @@
 ## Setup
 
-walkthrough-author name="uaslava@gmail.com"
-
 Welcome to Terraform in Google Cloud Shell! We need you to let us know what project you'd like to use with Terraform.
 
 <walkthrough-project-billing-setup></walkthrough-project-billing-setup>
